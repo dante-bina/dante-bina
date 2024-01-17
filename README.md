@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabrina Dante!
 - 👀 I’m interested in Computer Science and Game Development.
-- 🌱 I’m currently learning Statistics in college. I'm also doing a Data Analytics and Computer Science course in Codecademy.
+- 🌱 I’m currently learning Statistics in college. I'm also learning Data Analytics and Computer Science course in Codecademy.
 - 💞️ I’m looking to collaborate on open source projects and coding challenges in order to improve my programming skills.
 - 📫 How to reach me: I'll be out of reach during January and February.
 - 😄 Pronouns: She/Her
